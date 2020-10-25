@@ -1,0 +1,9 @@
+.app{
+    display: flex;
+}
+
+.sidebar-container{
+    padding: 10px;
+    min-height: 100vh;
+    background-color: lightgray;
+}

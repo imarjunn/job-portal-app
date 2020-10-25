@@ -1,0 +1,37 @@
+[
+    {
+        "position":
+                [
+                    {"posKey": 1,"posDesc":"Junior Software Developer"},
+                    {"posKey": 2,"posDesc":"Mid Software Developer"},
+                    {"posKey": 3,"posDesc":"Senior Software Developer"},
+                    {"posKey": 4,"posDesc":"Team Lead"},
+                    {"posKey": 5,"posDesc":"Manager"}
+                ]
+    },
+    {
+        "role":
+                [
+                    {"roleKey": 1,"roleDesc":"Front End"},
+                    {"roleKey": 2,"roleDesc":"Back End"},
+                    {"roleKey": 3,"roleDesc":"Full Stack"},
+                    {"roleKey": 4,"roleDesc":"DevOps"}
+                ]
+    },
+    {
+        "Contract":
+                [
+                    {"contractKey": 1,"contractDesc":"Full-Time"},
+                    {"contractKey": 2,"contractDesc":"Part-Time"},
+                    {"contractKey": 3,"contractDesc":"Contract"} 
+                ]
+    },
+    {
+        "location":
+                [
+                    {"locKey":1,"locDesc":"USA"},
+                    {"locKey":2,"locDesc":"India"},
+                    {"locKey":3,"locDesc":"Remote"}
+                ]
+    }
+]

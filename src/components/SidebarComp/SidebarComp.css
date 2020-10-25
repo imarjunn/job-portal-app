@@ -1,0 +1,18 @@
+.sidebar{
+    width:200px;
+    padding-top:25px;
+}
+
+.sidebar-icon{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.sidebar-link{
+    padding:10px;
+}
+
+.sidebar-link:hover{
+    border-right: 5px solid dimgray;
+    background-color: gainsboro;
+}
+
