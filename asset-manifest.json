@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/job-portal-app/static/css/main.c2a3b39d.chunk.css",
+    "main.js": "/job-portal-app/static/js/main.1595c346.chunk.js",
+    "main.js.map": "/job-portal-app/static/js/main.1595c346.chunk.js.map",
+    "runtime-main.js": "/job-portal-app/static/js/runtime-main.e9ab957c.js",
+    "runtime-main.js.map": "/job-portal-app/static/js/runtime-main.e9ab957c.js.map",
+    "static/js/2.2e2909b0.chunk.js": "/job-portal-app/static/js/2.2e2909b0.chunk.js",
+    "static/js/2.2e2909b0.chunk.js.map": "/job-portal-app/static/js/2.2e2909b0.chunk.js.map",
+    "index.html": "/job-portal-app/index.html",
+    "precache-manifest.ebd8dbd00b4ab8532750c979e8e813e4.js": "/job-portal-app/precache-manifest.ebd8dbd00b4ab8532750c979e8e813e4.js",
+    "service-worker.js": "/job-portal-app/service-worker.js",
+    "static/css/main.c2a3b39d.chunk.css.map": "/job-portal-app/static/css/main.c2a3b39d.chunk.css.map",
+    "static/js/2.2e2909b0.chunk.js.LICENSE.txt": "/job-portal-app/static/js/2.2e2909b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9ab957c.js",
+    "static/js/2.2e2909b0.chunk.js",
+    "static/css/main.c2a3b39d.chunk.css",
+    "static/js/main.1595c346.chunk.js"
+  ]
+}
