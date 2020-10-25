@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2adb912dd3daca2301236479eb319e18",
+    "revision": "533be68fdf3e7339320fb5cbdda575ec",
     "url": "/job-portal-app/index.html"
   },
   {
-    "revision": "c13b2043265d7b13ab77",
+    "revision": "6b28674a8dc10f3b768c",
     "url": "/job-portal-app/static/css/main.c2a3b39d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/job-portal-app/static/js/2.2e2909b0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c13b2043265d7b13ab77",
-    "url": "/job-portal-app/static/js/main.1595c346.chunk.js"
+    "revision": "6b28674a8dc10f3b768c",
+    "url": "/job-portal-app/static/js/main.8069ccd6.chunk.js"
   },
   {
     "revision": "25853a826a75914ce4e3",
